@@ -33,7 +33,7 @@ async function run() {
     {
       xLabel: 'Horsepower',
       yLabel: 'MPG',
-      height: 300,
+      height: 200,
     }
   );
 
